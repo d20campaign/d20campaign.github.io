@@ -1,2 +1,1 @@
-# d20campaign.github.io
-d20campaign Website
+# d20campaign
